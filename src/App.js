@@ -58,7 +58,6 @@ class App extends React.Component {
 
             <div className="show-section">
               <div>Current state shown here</div>
-              <div>The list is here:</div>
 
               {listOfThings}
             </div>
